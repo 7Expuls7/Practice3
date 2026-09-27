@@ -80,7 +80,7 @@ li:hover  {
    width: 8.3vw;
 }
 
-#one {background-color:#241149;}
+#one {background-color:#26ff00;}
 #two {background-color:#4c1976;}
 #three {background-color:#ff99f1;}
 #four {background-color:#e23166;}
@@ -227,7 +227,7 @@ img {
 }
 
 #one2 {
-  background: linear-gradient(to bottom right, #241149, #e8f214);
+  background: linear-gradient(to bottom right, #26ff00, #241149);
 }
 
 .poster {
@@ -277,7 +277,7 @@ li:hover  {
    width: 80px;
 }
 
-#one {background-color:#241149;}
+#one {background-color:#26ff00;}
 #two {background-color:#4c1976;}
 #three {background-color:#ff99f1;}
 #four {background-color:#e23166;}
@@ -428,7 +428,7 @@ img {
 }
 
 #one2 {
-  background: linear-gradient(to bottom right, цвет1, цвет2);
+  background: linear-gradient(to bottom right, #26ff00, #241149);
 }
 
 .poster {
@@ -437,6 +437,6 @@ img {
   margin-top: 6vw;
   margin-left: 525px;
   z-index: 1;
- filter: drop-shadow(4px 10px 15px цвет тени);
+ filter: drop-shadow(4px 10px 15px #d3b4e9);
 }
 }
